@@ -1,1 +1,3 @@
-# deep_learning_tutorials
+# Deep learning tutorials using Keras
+
+* MNIST hand-writing classification
